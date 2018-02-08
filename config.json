@@ -7,6 +7,13 @@
                     "path": "FILES/nginx/sites-enabled"
                 }
             }
+        },
+        "portal": {
+            "nginx": {
+                "sites-enabled": {
+                    "path": "FILES/nginx/sites-enabled"
+                }
+            }
         }
 
     }
